@@ -1,0 +1,7 @@
+# Project dependencies
+pandas
+numpy
+torch
+matplotlib
+selfies
+transformers
