@@ -4,7 +4,7 @@ A sophisticated AI-driven approach to generating molecular structures from prote
 
 ## Overview
 
-SELFSeq integrates bioinformatics, cheminformatics, and deep learning to predictively generate molecular structures in SELFIES format based on given protein sequences. This project aims to bridge the gap between sequence data analysis and practical molecular generation, fostering innovation in drug discovery and materials science.
+SELFSeq integrates bioinformatics, cheminformatics, and deep learning to predictively generate molecular structures in SELFIES format based on given protein sequences. This project aims to bridge the gap between sequence data analysis and practical molecular generation, fostering innovation in drug discovery.
 
 ## Setup
 
